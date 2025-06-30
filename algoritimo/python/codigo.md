@@ -1,0 +1,3 @@
+# Codigo...
+
+##  Esse codigo é um codigo simples, o usuario escreve uma letra minuscula e automaticamente o codigo faz fica maiuscula.
